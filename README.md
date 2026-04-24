@@ -1,4 +1,6 @@
-# XIVComboPlugin <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="HellBrands" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+# XIVComboPlugin Enhanced <a href="https://www.buymeacoffee.com/HellBrands" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+This fork aims to add even more combos and maybe allow custom combo creations if I make this possible.
+
 This plugin condenses combos and mutually exclusive abilities onto a single button. Thanks to Meli for the initial start, and obviously goat for making any of this possible. Additional credits to daemitus for forking the codebase and improving it.
 
 ## About
